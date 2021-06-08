@@ -1,0 +1,5 @@
+Nous avons remplacé la classe GameControllerStatic qui contenais plusieurs champs statiques par un singleton.
+
+Toutes nos classes qui héritaient d'une collection maintenant servent de contenant mais ne sont plus directement la collection.
+
+Pour le pokedex avec un numéro unique et pour les capcités et leur noms unique nous avons introduit dans les deux cas un HashMap permettant de faire le lien entre l'unicité et l'objet.

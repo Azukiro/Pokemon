@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.VBox?>
+
+<BorderPane  maxHeight="400.0" maxWidth="600.0" minHeight="400" minWidth="600" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controler.MainController">
+   <center>
+      <VBox alignment="TOP_CENTER" prefHeight="211.0" prefWidth="342.0" spacing="10.0" BorderPane.alignment="CENTER">
+         <children>
+            <Button fx:id="launchFightButton" alignment="TOP_LEFT" mnemonicParsing="false" onAction="#launchFight" text="Fight" />
+            <Button fx:id="launchPokedex" mnemonicParsing="false" onAction="#launchPokedex" text="Pokedex" />
+            <Button fx:id="lauchLeague" mnemonicParsing="false" onAction="#lauchLeague" text="League" />
+         </children>
+         <BorderPane.margin>
+            <Insets top="30.0" />
+         </BorderPane.margin>
+      </VBox>
+   </center>
+   <top>
+      <ImageView fitHeight="126.0" fitWidth="443.0" pickOnBounds="true" preserveRatio="true" BorderPane.alignment="CENTER">
+         <image>
+            <Image url="@../../Pictures/pokemonLogo.png" />
+         </image>
+         <BorderPane.margin>
+            <Insets top="20.0" />
+         </BorderPane.margin>
+      </ImageView>
+   </top>
+</BorderPane>

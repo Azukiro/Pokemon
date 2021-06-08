@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.ScrollPane?>
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.layout.RowConstraints?>
+
+<?import javafx.scene.layout.BorderPane?>
+
+<ScrollPane  maxHeight="400.0" maxWidth="600.0" minHeight="400" minWidth="600" prefHeight="400.0"
+	prefWidth="620.0" xmlns="http://javafx.com/javafx/11.0.1"
+	xmlns:fx="http://javafx.com/fxml/1"
+	fx:controller="controler.PokedexController">
+	<content>
+		<BorderPane fx:id="root" visible="true" prefHeight="400"
+					 prefWidth="600">
+			<center>
+				<GridPane fx:id="root2" visible="true" prefHeight="400"
+					gridLinesVisible="true" prefWidth="600">
+					<columnConstraints>
+						<ColumnConstraints minWidth="100.0"
+							prefWidth="100.0" />
+						<ColumnConstraints minWidth="100.0"
+							prefWidth="100.0" />
+						<ColumnConstraints minWidth="100.0"
+							prefWidth="100.0" />
+						<ColumnConstraints minWidth="100.0"
+							prefWidth="100.0" />
+						<ColumnConstraints minWidth="100.0"
+							prefWidth="100.0" />
+						<ColumnConstraints minWidth="100.0"
+							prefWidth="100.0" />
+					</columnConstraints>
+					<rowConstraints>
+					</rowConstraints>
+				</GridPane>
+			</center>
+		</BorderPane>
+
+
+	</content>
+</ScrollPane>

@@ -1,0 +1,16 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+
+
+.root {
+    -fx-background-color: derive(darkturquoise,60%);
+    -fx-font: 16px "Tahoma";
+}
+
+.button {
+	-fx-background-color: red;
+	-fx-text-fill: white;
+}
+
+#btnQuit {
+    -fx-background-color: green;
+}
