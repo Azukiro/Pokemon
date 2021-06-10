@@ -1,5 +1,5 @@
 
-# Plants Vs Zombies : Games of Thrones Edition
+# Pokemon
 
 Realization of the pokémon in java. Including different game modes such as the random battle mode or the League mode.
 
