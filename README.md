@@ -26,9 +26,11 @@ Realization of the pokémon in java. Including different game modes such as the 
   
 ## Demo
 **Pokedex Demo**
+
 ![DemoPokedex](https://github.com/Azukiro/Pokemon/blob/main/pokedex.gif?raw=True)
 
 **Fight Demo**
+
 ![DemoFight](https://github.com/Azukiro/Pokemon/blob/main/pokemonfight.gif?raw=True  "Demo of fight")
 
   
