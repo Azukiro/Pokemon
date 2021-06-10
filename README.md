@@ -55,6 +55,6 @@ You can open the project with Eclipse and just build it.
   
 ## Appendix
 - The project was completed in 1 month of class.
-- We obtained the mark of >19/20;.
+- We obtained the mark of `19/20`. 
 
   
