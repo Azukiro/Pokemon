@@ -16,9 +16,9 @@ Realization of the pokémon in java. Including different game modes such as the 
   
 ## Tech Stack
 
-**Language :** Java
+**Language :** `Java`
 
-**Visual librairies :** JavaFx
+**Visual librairies :** `JavaFx`
 
 
 
@@ -36,8 +36,8 @@ Realization of the pokémon in java. Including different game modes such as the 
   
 ## Features
 
-- Pokedex with the first 150 pokemons
-- Create your own Trainer with 6 pokemons
+- Pokedex with the first 150 `pokemons`
+- Create your own Trainer with 6 `pokemons`
 - Fight IA ennemy
 - Play on a Pokemon League
 
@@ -55,6 +55,6 @@ You can open the project with Eclipse and just build it.
   
 ## Appendix
 - The project was completed in 1 month of class.
-- We obtained the mark of 19/20.
+- We obtained the mark of >19/20;.
 
   
