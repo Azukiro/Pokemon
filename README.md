@@ -1,7 +1,7 @@
 
 # Pokemon
 
-Realization of Pokemon in java. Including different game modes such as the random battle mode or the League mode.
+Realization of Pokemon combat in java. Including different game modes such as the random battle mode or the Pokemon League fights.
 
 
 
@@ -37,20 +37,20 @@ Realization of Pokemon in java. Including different game modes such as the rando
 ## Features
 
 - Pokedex with the first 150 `pokemons`
-- Create your own Trainer with 6 `pokemons`
-- Fight IA ennemy
-- Play on a Pokemon League
+- Create your own Trainer with 6 `pokemons` in your team
+- Fight AI ennemy
+- Play against the Pokemon League
 
   
 ## Lessons Learned
 
-- How to read a csv for init all your data
-- How to make a dynamique GFX and UI
+- How to read a CSV file to initialize our pokemons data
+- How to make a dynamic GFX and UI
 
   
 ## Deployment
 
-You can open the project with Eclipse and just build it.
+You can open the project with Eclipse and build it with the right dependencies.
 
   
 ## Appendix
