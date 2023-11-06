@@ -3,7 +3,7 @@
 
 Realization of Pokemon combat in java. Including different game modes such as the random battle mode or the Pokemon League fights.
 
-
+https://www.youtube.com/watch?v=n_gZuY2jA0w&ab_channel=Fabinours
 
 
 
